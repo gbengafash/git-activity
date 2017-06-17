@@ -7,7 +7,7 @@ Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 _Are we doing this in reverse alphabetical order?_ _Apparently not_
 
-+     Stephen Gbenga Fashoto, University of Swaziland
+*     Stephen Gbenga Fashoto, University of Swaziland
             * Email: sgfashoto@uniswa.sz
             * IRC: Sfashoto
             * GitHub: gbengafash
