@@ -314,6 +314,6 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* GitHub: burgeje
 	* IRC: jburge
 * Stephen Gbenga Fashoto, University of Swaziland
-        * Email: sgfashoto@uniswa.sz
-        * IRC: Sfashoto
-        * GitHub: gbengafash
+        + * Email: sgfashoto@uniswa.sz
+        + * IRC: Sfashoto
+        + * GitHub: gbengafash
