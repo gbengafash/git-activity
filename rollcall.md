@@ -6,6 +6,10 @@ Rollcall
 Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 _Are we doing this in reverse alphabetical order?_ _Apparently not_
+*Stephen Gbenga Fashoto, University of Swaziland, Kwaluseni, Swaziland
+        * Email: sgfashoto@uniswa.sz
+	 * IRC: Sfashoto
+	 * GitHib:gbengafash
 
 * George Thomas, University of Wisconsin Oshkosh
 	* Email: thomasg@uwosh.edu
